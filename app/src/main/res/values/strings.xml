@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">kaizerApps</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title">WELCOME TO MY APPS</string>
+    <string name="slide_1_desc">Selamat Datang Di Aplikasi Kaizer Nugraha</string>
+
+    <string name="slide_2_title">TASK</string>
+    <string name="slide_2_desc">Untuk Memenuhi tugas kuliah AKB</string>
+
+    <string name="slide_3_title">LETDOIT</string>
+    <string name="slide_3_desc"></string>
+
+    <string name="slide_4_title">ENJOY IN MY Apps</string>
+    <string name="slide_4_desc">Nikmati Harimu Dengan senyuman </string>
+
+
+    <!---->
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="contact">Contact</string>
+    <string name="about">About</string>
+    <string name="friends">Friends</string>
+    <string name="logout">Log Out</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="nim">NIM</string>
+    <string name="_10116323">10116336</string>
+    <string name="kelas">Kelas</string>
+    <string name="if_8">IF - 8</string>
+    <string name="judul_tentang_saya">Tentang Saya</string>
+    <string name="kaizer_nugraha">Kaizer Nugraha</string>
+    <string name="telp">081990539091</string>
+    <string name="email">nugrahakaizer@gmail.com</string>
+    <string name="wa">087824085752</string>
+    <string name="twitter">kaizer_nugraha</string>
+    <string name="ig">kaizer_nugraha</string>
+
+
+    <string name="tentang_saya">Saya adalah mahasiswa UNIKOM</string>
+    <string name="about_aplikasi">
+        Aplikasi ini kedepannya aplikasi ini akan terus dikembangkan agar lebih baik dan berguna lagi bagi penggunanya.
+    </string>
+    <string name="tujuan">
+        Aplikasi ini dibuat untuk memenuhi UAS Semester 6 Aplikasi Komputasi Bergerak.
+    </string>
+    <string name="nama">Nama</string>
+    <string name="simpan">Simpan</string>
+    <string name="teleponan">Telepon</string>
+    <string name="tv_email">Email</string>
+    <string name="sosial_media">Sosial Media</string>
+    <string name="delete">Delete</string>
+    <string name="email_text">Email</string>
+    <string name="telepon">Telepon</string>
+
+
+</resources>
